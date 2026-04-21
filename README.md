@@ -36,7 +36,7 @@
 > **AI 시스템을 처음부터 끝까지 직접 설계하고 제품으로 만드는 것을 지향하는 개발자 입니다.**
 
 - 🧠 **Multimodal RAG** 파이프라인 설계 & 구현
-- 🎙 TTS / Voice Synthesis (GPT-SoVITS, RVC)
+- 🎙 TTS / Voice Synthesis, Cloning (VITS, RVC based models)
 - 🌐 Full-stack (React · FastAPI · Django)
 - ☁️ Cloud-native 배포 (AWS · Docker)
 - 🔬 Image Analzing & Prompt Engineering 탐구 중
