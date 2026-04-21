@@ -56,8 +56,8 @@ SKNetworks Family AI camp 22th (25.10 ~ 26.04)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![TTS](https://img.shields.io/badge/TTS-000000?style=for-the-badge&logo=soundcharts&logoColor=white)
-![RVC](https://img.shields.io/badge/Voice_Cloning-4B0082?style=for-the-badge&logo=audio-technica&logoColor=white)
+![TTS](https://img.shields.io/badge/TTS-000000?style=flat-square&logo=soundcharts&logoColor=white)
+![RVC](https://img.shields.io/badge/RVC-4B0082?style=flat-square&logo=audio-technica&logoColor=white)
 
 **Backend / Frontend**
 
