@@ -1,4 +1,3 @@
-# 👋 Welcome to minje0209-ux's Github!
 <table align="center" width="100%" border="0" style="padding:0;border:0;">
   <tr>
     <!-- Github Commit summary Card -->
@@ -32,7 +31,7 @@
 
 [//]: # (</table>)
 
-### AI Engineer
+## AI Engineer
 
 > **AI 시스템을 처음부터 끝까지 직접 설계하고 제품으로 만드는 것을 지향하는 개발자 입니다.**
 
