@@ -1,4 +1,4 @@
-# 👋 Welcome to Minje An's Github!
+# 👋 Welcome to minje0209-ux's Github!
 <table align="center" width="100%" border="0" style="padding:0;border:0;">
   <tr>
     <!-- Github Commit summary Card -->
