@@ -47,8 +47,8 @@ SKNetworks Family AI camp 22th (25.10 ~ 26.04)
 
 **Language**
 
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white)
 
 **AI / ML**
 
