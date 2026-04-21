@@ -40,6 +40,7 @@
 - 🌐 Full-stack (React · FastAPI · Django)
 - ☁️ Cloud-native 배포 (AWS · Docker)
 - 🔬 Image Analzing & Prompt Engineering 탐구 중
+- 🏗️ AI-IoT 연동 아키텍쳐 개발 중
 * 🎓 **Education**  
 SKNetworks Family AI camp 22th (25.10 ~ 26.04)
 
